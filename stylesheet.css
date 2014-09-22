@@ -1,0 +1,25 @@
+  .blue-small-rounded {
+	-moz-box-shadow:inset 0px 1px 0px 0px #70b0c7;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #70b0c7;
+	box-shadow:inset 0px 1px 0px 0px #70b0c7;
+	background-color:#70b0c7;
+	-moz-border-radius:30px;
+	-webkit-border-radius:30px;
+	border-radius:30px;
+	border:1px solid #70b0c7;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size:10px;
+	font-weight:bold;
+	padding:5px 10px;
+	text-decoration:none;
+}
+.blue-small-regular:hover {
+	background-color:#58B1D2;
+}
+.blue-small-regular:active {
+	position:relative;
+	top:1px;
+}  
